@@ -1,0 +1,16 @@
+dataset,query_id,time_seconds
+salary_tracker_1MB.csv,1,0.0391343
+salary_tracker_1MB.csv,2,0.045243
+salary_tracker_1MB.csv,3,0.0436003
+salary_tracker_1MB.csv,4,0.0735943
+salary_tracker_1MB.csv,5,0.0461581
+salary_tracker_10MB.csv,1,0.0601079
+salary_tracker_10MB.csv,2,0.124346
+salary_tracker_10MB.csv,3,0.0481865
+salary_tracker_10MB.csv,4,0.143284
+salary_tracker_10MB.csv,5,0.211382
+salary_tracker_100MB.csv,1,0.357143
+salary_tracker_100MB.csv,2,0.343916
+salary_tracker_100MB.csv,3,0.0375698
+salary_tracker_100MB.csv,4,1.59962
+salary_tracker_100MB.csv,5,1.93054
